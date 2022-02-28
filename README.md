@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngrates
-- 👀 I’m interested in sports statistics/analysis, and esports.
-- 🌱 I’m currently learning to apply Python to sports analysis in a meaningful manner.
-- 💞️ I’m looking to collaborate on anything and everything related to sports including baseball, soccer, basketball, hockey, esports etc.
+- 👀 I’m interested in the fields of Data & Software Engineering.
+- 🌱 I’m currently learning about Data Engineering and the different tools that are involved with it.
+- 💞️ I’m looking to collaborate on software projects centering on fantasy sports.
 - 📫 You can reach me at https://twitter.com/NateGrates. 
 
 <!---
