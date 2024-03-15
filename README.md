@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngrates
-- 👀 I’m interested in the fields of Data & Software Engineering.
-- 🌱 I’m currently learning about Data Engineering and the different tools that are involved with it.
+- 👀 I’m interested in the fields of Data Science & Engineering.
+- 🌱 I’m currently learning about Flask to create Python based web apps.
 - 💞️ I’m looking to collaborate on software projects centering on fantasy sports.
 - 📫 You can reach me at https://twitter.com/NateGrates. 
 
