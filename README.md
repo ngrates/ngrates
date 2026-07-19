@@ -1,6 +1,5 @@
-Data Engineer · MS CS @ CU Boulder · building fantasystreamer.com
+Data engineer.
 
-<!---
-ngrates/ngrates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build and run [fantasystreamer.com](https://fantasystreamer.com), a daily MLB prediction pipeline — Prefect, AWS (S3/CloudFront), scikit-learn.
+
+MS Computer Science, CU Boulder · AWS Certified Cloud Practitioner
